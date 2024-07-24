@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Satoshi Varaible';
+    src: url('../fonts/649d7ca1f5c7aa41f51eb483_satoshi-variable.ttf') format('ttf');
+        
+    font-weight: normal;
+    font-style: normal;
+}
+.font-satoshi {
+    font-family: 'Satoshi Variable', sans-serif;
+}
