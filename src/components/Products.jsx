@@ -9,7 +9,7 @@ const Products = () => {
       case: false,
     },
     {
-      title: "CUla",
+      title: "Cula",
       description: "Arqu Selection Product Details and Features for Product Details", live: true,
       case: true,
     },
